@@ -16,7 +16,7 @@ I am a passionate IT student currently at kabarak university , driven by a curio
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,react,mysql,figma,php,c,python)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
