@@ -2,7 +2,7 @@
 
 I am a passionate IT student currently at kabarak university , driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science and information technology, exploring new ideas, and sharing my insights with the community.
 
-![wanyonyi's Stats](https://github-readme-stats.vercel.app/api?username=wanyonyi&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![wanyonyi's Stats](https://github-readme-stats.vercel.app/api?username=wanyonyi-dev&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
