@@ -16,7 +16,7 @@ I am a passionate IT student currently at Kabarak University, driven by a curios
 - [JavaScript Engine and Runtime Explained](https://www.freecodecamp.org/news/javascript-engine-and-runtime-explained/)
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,react,mysql,figma,php,c,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,react,mysql,flutter,figma,php,c,python)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
