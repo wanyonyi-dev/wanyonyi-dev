@@ -26,6 +26,8 @@ I am a passionate IT student currently at Kabarak University, driven by a curios
   - Styling with Tailwind CSS to create modern and responsive user interfaces.
   - Building server-side applications with Django, a powerful Python web framework.
   - Diving into PostgreSQL for efficient and scalable database management.
+  - Android development with Dart
+  - getting in touch with flask
 
 ## 🏆 Achievements
 
