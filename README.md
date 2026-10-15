@@ -1,40 +1,42 @@
-# Hi, I'm Wanyonyi! 👋
+# Hi, I'm Wanyonyi 👋
 
-I am a passionate IT student currently at Kabarak University, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science and information technology, exploring new ideas, and sharing my insights with the community.
+I'm a software engineer based in Kenya. I build and maintain enterprise business software, and I'm currently the engineer behind **Bylon ERP** at Bylon Technologies. I graduated from Kabarak University with a BSc in Information Technology (2025), and I write about how software works.
 
-![wanyonyi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wanyonyi-dev&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![wanyonyi's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wanyonyi-dev&theme=vue-dark&layout=compact&hide_border=true)
+![Wanyonyi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wanyonyi-dev&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Wanyonyi's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wanyonyi-dev&theme=vue-dark&layout=compact&hide_border=true)
 
-## 🚀 About Me
+## 💼 What I Do
 
-- 🔭 I'm currently pursuing degree in information technology at kabarak University.
-- 📝 I write in-depth, long-form articles on my website [theenthusiast.dev](https://theenthusiast.dev), accumulating over 20k views within just 2 months.
-- 🌐 Proud member of the [Hackernoon Blogging Fellowship](https://hackernoon.com/), contributing to the tech community.
-- ✍️ Content Writer at [freeCodeCamp](https://www.freecodecamp.org/), gearing up to share valuable insights with the global coding community.
+- 🏢 **Software Engineer, Bylon Technologies Limited**: I own development of Bylon ERP, a multi-module ERP for business clients in Kenya.
+- 💻 **Software Developer, Intuinno Software Solutions**: I build business systems in Laravel and CodeIgniter and customize Microsoft Dynamics 365 Finance (X++) to automate accounting workflows.
+- 🤖 **KEMRI AI Chatbot**: I designed and deployed an AI support chatbot at the Kenya Medical Research Institute during my software engineering attachment (Jan to Apr 2026).
+- 🎓 **ALX Africa**: Certified Full-Stack Software Engineer (2024) and Certified AI Specialist (2025).
 
-## My Articles
-- [JavaScript Engine and Runtime Explained](https://www.freecodecamp.org/news/javascript-engine-and-runtime-explained/)
+## ✍️ Writing
 
-## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,react,mysql,flutter,figma,php,c,python)](https://skillicons.dev)
+I write long-form technical articles on [theenthusiast.dev](https://theenthusiast.dev) (20k+ views in the first two months) and I'm a member of the Hackernoon Blogging Fellowship.
 
-## 🌱 Currently Exploring
+- [JavaScript Engine and Runtime Explained](https://www.freecodecamp.org/news/javascript-engine-and-runtime-explained/), published on freeCodeCamp
 
-- 🚀 Learning Full Stack Engineering with ALX
-  - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
-  - Navigating through the world of React Router for seamless page transitions.
-  - Styling with Tailwind CSS to create modern and responsive user interfaces.
-  - Building server-side applications with Django, a powerful Python web framework.
-  - Diving into PostgreSQL for efficient and scalable database management.
-  - Android development with Dart
-  - getting in touch with flask
+## 🛠️ Tech Stack
+
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,codeigniter,nodejs,express,python,c,js,react,nextjs,flutter,mysql,firebase,supabase,figma)](https://skillicons.dev)
+
+Also: Microsoft Dynamics 365 Finance, X++, SQL Server, Power BI, API integration, prompt engineering, model training and deployment.
+
+## 📂 Selected Work
+
+Most of my professional work is private. Public repos worth a look:
+
+- [binary_trees](https://github.com/wanyonyi-dev/binary_trees): binary tree data structures in C
+- [AirBnB_clone_v2](https://github.com/wanyonyi-dev/AirBnB_clone_v2): full-stack web app in Python
+- [alx-system_engineering-devops](https://github.com/wanyonyi-dev/alx-system_engineering-devops): DevOps and system engineering projects
 
 ## 🏆 Achievements
 
-- 🌟 Completed Hacktoberfest 2023 - Contributed to open source projects and celebrated the spirit of collaboration.
+- Completed Hacktoberfest 2023
 
 ## 📬 Get in Touch
 
-- Connect with me through email: wanyonyip148@gmail.com
-
-Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
+- Email: wanyonyip148@gmail.com
+- Website: [www.bylon.cloud](https://www.bylon.cloud)
